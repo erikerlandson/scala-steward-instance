@@ -1,4 +1,4 @@
-name: DIY Steward
+name: Scala Steward
 
 on:
   schedule:
