@@ -27,3 +27,4 @@ jobs:
           author-name: scala-steward-erikerlandson[bot]
           github-app-id: 216725
           github-app-key: ${{ secrets.APP_PRIVATE_KEY }}
+          repos-file: 'repos.md'
