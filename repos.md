@@ -1,2 +1,2 @@
-- erikerlandson/coulomb
 - erikerlandson/coulomb:scala3
+- erikerlandson/coulomb:scala2
